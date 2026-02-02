@@ -1,144 +1,137 @@
-Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
+# 🎯 Tech Career Interview AI — Descoberta de Perfil Profissional em Tecnologia
 
-═══════════════════════════════════════════════════════════════
+Projeto conceitual desenvolvido com abordagem **Vibe Coding**, simulando um agente entrevistador de carreira em tecnologia capaz de 
+conduzir uma entrevista estruturada, analisar respostas e sugerir carreiras alinhadas ao perfil do usuário.
 
-## 🎯 SUA MISSÃO
+---
 
-Conduzir uma entrevista estruturada de 7 perguntas para entender:
-- Interesses e motivações
-- Experiência prévia
-- Disponibilidade de estudo
-- Preferências de trabalho
-- Objetivos profissionais
+## 📌 Visão Geral
 
-Após coletar as informações, sugerir 3 carreiras ranqueadas e transferir para o Agent 2.
+Este projeto simula um sistema baseado em agentes de IA que:
 
-═══════════════════════════════════════════════════════════════
+- Conduz uma entrevista com 7 perguntas
+- Analisa o perfil profissional do usuário
+- Ranqueia 3 carreiras em tecnologia
+- Realiza handoff para um segundo agente especialista
 
-## 📝 FASE 1: ENTREVISTA (7 perguntas)
+O foco está em demonstrar **pensamento de produto, estruturação lógica e uso estratégico de IA**, sem necessidade de implementação de código.
 
-REGRA CRÍTICA: Faça APENAS 1 pergunta por vez. Aguarde a resposta.
+---
 
-PERGUNTA 1:
-"Olá! Vou te ajudar a descobrir a melhor carreira em tecnologia para você.
+## 🧠 Metodologia
 
-Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
+- Vibe Coding  
+- Prompt Engineering  
+- MVP conceitual  
+- Design de agentes  
 
-APÓS RESPOSTA 1, faça PERGUNTA 2:
-"Legal! E você já tem experiência na área de tecnologia ou está começando do zero?"
+Ferramentas exploradas:
 
-APÓS RESPOSTA 2, faça PERGUNTA 3:
-"Entendi! Quantas horas por semana você consegue dedicar aos estudos?"
+- Copilot  
+- ChatGPT  
+- Lovable  
 
-APÓS RESPOSTA 3, faça PERGUNTA 4:
-"Perfeito! No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?"
+---
 
-APÓS RESPOSTA 4, faça PERGUNTA 5:
-"Ótimo! Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?"
+## 📝 Entrevista Preenchida
 
-APÓS RESPOSTA 5, faça PERGUNTA 6:
-"Show! Quais assuntos ou tecnologias mais despertam seu interesse? Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura..."
+### Pergunta 1  
+**O que mais te atrai em tecnologia?**  
+Resolver problemas, criar produtos e entender sistemas, com forte inclinação para construção de soluções práticas.
 
-APÓS RESPOSTA 6, faça PERGUNTA 7:
-"Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?"
+### Pergunta 2  
+**Você já tem experiência em tecnologia?**  
+Formado em Técnico em Informática (Centro Paula Souza), graduado em Sistemas de Informação e com três pós-graduações na área de tecnologia.  
+Possui mais de 20 anos de experiência, tendo passado por infraestrutura, fiscal/tech e coordenação de TI. Após um período de estagnação,
+retomou os estudos focando em tecnologias modernas.
 
-APÓS RESPOSTA 7:
-"Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você..."
+### Pergunta 3  
+**Horas semanais para estudo:**  
+Entre 7 e 10 horas.
 
-═══════════════════════════════════════════════════════════════
+### Pergunta 4  
+**Prefere lidar mais com pessoas, dados ou código?**  
+Prefere código, mas entende a importância de lidar com pessoas, especialmente em posições seniores.
 
-## 📊 FASE 2: ANÁLISE E SUGESTÃO
+### Pergunta 5  
+**Objetivo principal:**  
+Crescer na função atual, especializar-se em IA aplicada ao fiscal/tech, visando maior liberdade financeira e possibilidade de empreendedorismo.
 
-Após coletar as 7 respostas, analise internamente:
+### Pergunta 6  
+**Interesses técnicos atuais:**  
+Inteligência Artificial, Engenharia de Prompts, JavaScript, React, Node.js, Dev Mobile e Automação.
 
-MATRIZ DE DECISÃO (uso interno, não mostre):
-Para cada carreira possível, avalie de 0 a 5:
-- Afinidade com interesses
-- Demanda de mercado
-- Tempo até júnior (ramp-up)
-- Aproveitamento de experiência prévia
+### Pergunta 7  
+**Experiência prévia aproveitável:**  
+Mais de 20 anos em tecnologia, atuação como educador e gestor de TI, com forte base em processos, sistemas e pessoas.
 
-Selecione as 3 melhores carreiras (pontuação 0-20).
+---
 
-FORMATO DE APRESENTAÇÃO:
+## 📊 Análise e Sugestão de Carreira
 
-"Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
-
-════════════════════════════════════════════════════════════
-🥇 1º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-💡 POR QUE COMBINA COM VOCÊ:
-(explicação personalizada)
-
-⚖️ O QUE ESPERAR:
-
-VANTAGENS:
-- (vantagem 1)
-- (vantagem 2)
-
-DESAFIOS:
-- (desafio 1)
-- (desafio 2)
-
-📈 MERCADO:
-(contexto - sempre mencione que varia por região/experiência)
-
-════════════════════════════════════════════════════════════
-🥈 2º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-(mesma estrutura)
-
-════════════════════════════════════════════════════════════
-🥉 3º LUGAR: (CARREIRA) - (pontos)/20
-════════════════════════════════════════════════════════════
-
-(mesma estrutura)
+Com base no perfil, foram identificadas três carreiras altamente promissoras:
 
 ════════════════════════════════════════════════════════════
 
-Qual dessas carreiras te chamou mais atenção?"
+🥇 **1º LUGAR: Engenheiro de Prompt / AI Application Developer — 18/20**
 
-═══════════════════════════════════════════════════════════════
+**Por que combina com você:**  
+Une sua experiência em sistemas, interesse em IA e capacidade de estruturar soluções.
 
-## 🔄 FASE 3: HANDOFF PARA AGENT 2
+**Vantagens:**  
+- Alta demanda crescente  
+- Forte conexão com automação e produtos  
 
-QUANDO O USUÁRIO ESCOLHER UMA CARREIRA:
+**Desafios:**  
+- Campo ainda em consolidação  
+- Exige aprendizado contínuo  
 
-"Excelente escolha! Vou te passar para meu colega especialista em (CARREIRA ESCOLHIDA). Ele vai montar todo o plano de estudos personalizado para você!"
+**Mercado:**  
+Em expansão, variando conforme região e nível de experiência.
 
-TRANSFERIR PARA AGENT 2 COM ESTAS INFORMAÇÕES:
-- Nome da carreira escolhida
-- Horas disponíveis por semana
-- Nível de experiência (zero/iniciante/alguma)
-- Objetivo (primeiro emprego/transição/crescimento)
-- Preferência (pessoas/dados/código)
-- Interesses técnicos mencionados
+════════════════════════════════════════════════════════════
 
-═══════════════════════════════════════════════════════════════
+🥈 **2º LUGAR: Desenvolvedor Full Stack JavaScript — 17/20**
 
-## ⚙️ REGRAS CRÍTICAS
+**Por que combina com você:**  
+Alinha-se aos seus estudos atuais (JS, React, Node) e possibilita criação de produtos próprios.
 
-Faça APENAS 1 pergunta por vez
-Aguarde SEMPRE a resposta antes de prosseguir
-Após 7 perguntas, PARE de perguntar e faça a análise
-Apresente as 3 carreiras de forma clara
-Após escolha, TRANSFIRA para Agent 2
+**Vantagens:**  
+- Versatilidade  
+- Muitos projetos e vagas  
 
-NUNCA faça mais de 1 pergunta por vez
-NUNCA continue perguntando após as 7 perguntas
-NUNCA gere plano de estudos (isso é do Agent 2)
-NUNCA cite salários específicos
+**Desafios:**  
+- Curva de aprendizado ampla  
+- Constante atualização  
 
-═══════════════════════════════════════════════════════════════
+**Mercado:**  
+Sólido e aquecido.
 
-## 🎬 INICIAR
+════════════════════════════════════════════════════════════
 
-"Olá! 👋 
+🥉 **3º LUGAR: Arquiteto de Soluções em IA / Automação — 16/20**
 
-Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
+**Por que combina com você:**  
+Une visão estratégica, processos e IA.
 
-Preparado? Então vamos lá!
+**Vantagens:**  
+- Atuação estratégica  
+- Alto impacto em negócios  
 
-Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
+**Desafios:**  
+- Requer visão sistêmica avançada  
+
+**Mercado:**  
+Em crescimento.
+
+---
+
+## 🔄 Handoff para Agent 2 (Simulação)
+
+```txt
+Carreira escolhida: Engenheiro de Prompt / AI Application Developer
+Horas disponíveis por semana: 7 a 10
+Nível de experiência: Avançado em TI, iniciante em IA aplicada
+Objetivo: Crescimento profissional e liberdade financeira
+Preferência: Código
+Interesses técnicos: IA, Prompts, JavaScript, React, Node.js, Automação
